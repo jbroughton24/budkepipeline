@@ -1,0 +1,4 @@
+sampleCode	Lineage	Genus	Species	
+RAPiD-Genomics_F272_UTK_174301_P003_WB04	Moss	Fissidens	palmifolius_1	*
+RAPiD-Genomics_F272_UTK_174301_P003_WC09	Moss	Fissidens	palmifolius_2	*
+RAPiD-Genomics_F272_UTK_174301_P003_WC10	Moss	Fissidens	fontanus_4	*
